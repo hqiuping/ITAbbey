@@ -1,0 +1,13 @@
+.wrap{
+    width: 50%;
+    padding-bottom: 50%;
+    margin-left: 25%;
+}
+.innerbox{
+    width: 30%;
+    padding-bottom: 26%;
+    float: left;
+    margin: 1%;
+    background-color: orange;
+    border-radius: 10%;
+}
